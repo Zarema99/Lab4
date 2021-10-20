@@ -1,2 +1,2 @@
 # Lab4
-![](video for test2.mp4)
+<video_src = "video for test2.mp4">
