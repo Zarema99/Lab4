@@ -213,4 +213,6 @@ include_directories(
   add_executable(rectangle src/rectangle.cpp)
   target_link_libraries(rectangle ${catkin_LIBRARIES})
 
+  add_executable(end_eff src/end_effector.cpp)
+  target_link_libraries(end_eff ${catkin_LIBRARIES})
   
